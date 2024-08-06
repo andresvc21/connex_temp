@@ -10,3 +10,94 @@
   - utterance: what are your hours of opreations
   - utterance: location
   - utterance: ''
+- description: Test case for faqeith.json
+  golden_dialog: faqeith.json
+  id: 4c7fb4df-0c22-424a-a99d-0b4f23487a32
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: can you provide a detailed printout of my recent account activity?
+  - utterance: i need a mortgage release
+  - utterance: ''
+  - utterance: '107460888'
+  - utterance: ''
+- description: Test case for faqfive.json
+  golden_dialog: faqfive.json
+  id: d3c557c4-b835-4083-ae84-5fe677006331
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: i want to add my son
+  - utterance: who can join your institution?
+  - utterance: ''
+  - utterance: '[HANG UP]'
+- description: Test case for faqfour.json
+  golden_dialog: faqfour.json
+  id: ecfd200a-4c51-4013-a798-24c31eac82f8
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: hours of operation
+  - utterance: what are your hous of opreation
+  - utterance: what are the business hours for your local branches
+  - utterance: ''
+  - utterance: '[HANG UP]'
+- description: Test case for faqone.json
+  golden_dialog: faqone.json
+  id: 9a1d5760-70f8-4307-87e8-93f584481bda
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: hours of operation
+  - utterance: what are your hours of opreations
+  - utterance: location
+  - utterance: ''
+  - utterance: '[HANG UP]'
+- description: Test case for faqseven.json
+  golden_dialog: faqseven.json
+  id: eb96952a-a921-49b5-b0c9-32c82e0e2ed0
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: i need a printed statement for the last quarter.
+  - utterance: ''
+  - utterance: '7780139440'
+  - utterance: ''
+  - utterance: '107460888'
+  - utterance: ''
+- description: Test case for faqsix.json
+  golden_dialog: faqsix.json
+  id: efd2aba8-50d8-4e35-807b-d95f7e422c89
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: what are the costs for notary services?
+  - utterance: ''
+  - utterance: '[HANG UP]'
+- description: Test case for faqtree.json
+  golden_dialog: faqtree.json
+  id: c2f63ec2-3e27-4b9c-809a-e8fa0215feac
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: armer force member loan
+  - utterance: ''
+  - utterance: '[HANG UP]'
+- description: Test case for faqtwo.json
+  golden_dialog: faqtwo.json
+  id: 7150dfa6-3bc8-475b-b806-28dcb9e89783
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: i'm looking for information on your products
+  - utterance: armer force member loan
+  - utterance: ''
+  - utterance: '[HANG UP]'
