@@ -1,0 +1,12 @@
+---
+- description: Test case for testone.json
+  golden_dialog: testone.json
+  id: 02949b76-823d-4b24-95db-03be5a7f1f73
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: hours of operation
+  - utterance: what are your hours of opreations
+  - utterance: location
+  - utterance: ''
