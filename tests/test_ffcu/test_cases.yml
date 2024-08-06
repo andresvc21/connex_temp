@@ -1,0 +1,12 @@
+---
+- description: Test case for 440f35c660d032df86512eeeb4e53d6a61507c58.1722971298036.e350fd877b9e45feac5b39796b8afb54.json
+  golden_dialog: 440f35c660d032df86512eeeb4e53d6a61507c58.1722971298036.e350fd877b9e45feac5b39796b8afb54.json
+  id: 5b4147a0-8402-489a-ba5b-14a4024c721e
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: hours of operation
+  - utterance: what are your hours of opreations
+  - utterance: location
+  - utterance: ''
