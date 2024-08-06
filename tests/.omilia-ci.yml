@@ -1,0 +1,16 @@
+diamant:
+    app: FirstFinancial_UAT@PRD_FirstFinancial_IVR_UAT
+miniapp_id: 6cf38caa-9d66-4c91-82f3-797436bb9a49.PRD_FirstFinancial_IVR_UAT.Flow.FirstFinancial_UAT@PRD_FirstFinancial_IVR_UAT.FirstFinancial_UAT
+assertions:
+    prompt: true
+    intent: true
+    end_type: true
+    grammar: true
+    action_name: true
+    target_name: true
+    outbound_attached_data: true
+    annotation: false
+    dialog_events: false
+    interpretation: false
+    desination_uri: false
+    prompt_threshold: 0.8
