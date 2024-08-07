@@ -311,3 +311,469 @@
   - utterance: can you help me set up a new cd account?
   - utterance: ''
   - utterance: '[HANG UP]'
+- description: Test case for faaqu.json
+  golden_dialog: faaqu.json
+  id: f65fece8-bcbc-4312-9495-e2a6138ae0c3
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: how can i check my account activity through the app?
+  - utterance: ''
+  - utterance: banana
+  - utterance: banana
+  - utterance: banana
+  - utterance: ''
+- description: Test case for fajqjrjt.json
+  golden_dialog: fajqjrjt.json
+  id: dd6f42e0-f563-41ac-87de-fc6691e0f462
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: steps to apply for a motorcycle loan
+  - utterance: ''
+  - utterance: '[HANG UP]'
+- description: Test case for faqandr.json
+  golden_dialog: faqandr.json
+  id: f07a1661-0555-473e-85e2-1470df3b2ef4
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: i want to stop a recurring payment?
+  - utterance: ''
+  - utterance: '107850230'
+  - utterance: ''
+- description: Test case for faqasadsa.json
+  golden_dialog: faqasadsa.json
+  id: 84a3d5c7-e059-4d20-ba36-a803d1002506
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: how do i put a stop on a payment
+  - utterance: ''
+  - utterance: '197798749'
+  - utterance: 'no'
+  - utterance: ''
+- description: Test case for faqchutera.json
+  golden_dialog: faqchutera.json
+  id: 4bfbb226-4db7-4f99-87ea-acb158f27bf4
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: options for skipping a mortgage payment
+  - utterance: ''
+  - utterance: '197798749'
+  - utterance: 'yes'
+  - utterance: ''
+- description: Test case for faqchutero.json
+  golden_dialog: faqchutero.json
+  id: 540ec4f5-e4bb-4d6d-beaf-3d41446d0c24
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: can i check my balance through touch tone teller?
+  - utterance: ''
+- description: Test case for faqfjfja.json
+  golden_dialog: faqfjfja.json
+  id: f4b79aed-ae27-4900-ab58-28c9fe274068
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: can you provide your latest cd rates?
+  - utterance: ''
+  - utterance: '[HANG UP]'
+- description: Test case for faqfkaks.json
+  golden_dialog: faqfkaks.json
+  id: c01aaa16-e70c-4a90-a3b9-8ffa9c69b397
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: how do i put a stop on a payment
+  - utterance: ''
+  - utterance: '197798749'
+  - utterance: banana [NO MATCH]
+  - utterance: banana [NO MATCH]
+  - utterance: ''
+- description: Test case for faqghgh.json
+  golden_dialog: faqghgh.json
+  id: 331c9d7c-a51f-4a19-b3d7-372c4784b420
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: details about my card
+  - utterance: walk me through card activation.
+  - utterance: ''
+- description: Test case for faqiearei.json
+  golden_dialog: faqiearei.json
+  id: a3fafb83-da6d-4c71-8f68-f0a6cff2448c
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: i want to stop a recurring payment?
+  - utterance: ''
+  - utterance: agent please
+  - utterance: agent
+  - utterance: ''
+- description: Test case for faqirieri.json
+  golden_dialog: faqirieri.json
+  id: 4599c046-aeed-4a97-bf56-1dc7dba5b89c
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: i want to stop a recurring payment?
+  - utterance: ''
+  - utterance: banana [NO MATCH]
+  - utterance: banana [NO MATCH]
+  - utterance: ''
+- description: Test case for faqjjy.json
+  golden_dialog: faqjjy.json
+  id: ea19d89e-c728-4451-b99e-82eeee549151
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: question about a withdrawal
+  - utterance: ''
+  - utterance: '197798749'
+  - utterance: 'yes'
+  - utterance: ''
+- description: Test case for faqjrjrj.json
+  golden_dialog: faqjrjrj.json
+  id: a59806e4-83bc-4851-bc49-0b4603cd5363
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: where can i find atms that accept cash deposits?
+  - utterance: ''
+  - utterance: '[HANG UP]'
+- description: Test case for faqjtjt.json
+  golden_dialog: faqjtjt.json
+  id: ede52a8a-fc84-427b-a742-1a19efc5fd7c
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: how do loans work
+  - utterance: how's my mortgage application doing
+  - utterance: ''
+  - utterance: '197798749'
+  - utterance: 'yes'
+  - utterance: ''
+- description: Test case for faqjtjtjt.json
+  golden_dialog: faqjtjtjt.json
+  id: ce6682b3-e860-4b3b-90e7-244024834fdb
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: i want to report my visa debit card stolen.
+  - utterance: ''
+- description: Test case for faqjtjtjtj.json
+  golden_dialog: faqjtjtjtj.json
+  id: 7b37715f-f323-4aae-9592-ee069b2669d0
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: what are the steps to ask for a card replacement?
+  - utterance: ''
+  - utterance: '[HANG UP]'
+- description: Test case for faqjttjt.json
+  golden_dialog: faqjttjt.json
+  id: 323b7381-5cfd-470c-9d11-c61bc471d82e
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: i need to locate the nearest atm
+  - utterance: ''
+  - utterance: '[HANG UP]'
+- description: Test case for faqkakaka.json
+  golden_dialog: faqkakaka.json
+  id: d08cdf7e-ee5c-4bce-83e7-b2fb85ffeb06
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: i want to stop a recurring payment?
+  - utterance: ''
+  - utterance: '107460888'
+  - utterance: ''
+- description: Test case for faqkasksaks.json
+  golden_dialog: faqkasksaks.json
+  id: e91035c9-f400-4aa5-a1a4-1eca7d5471a5
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: 197798749 [NO MATCH]
+  - utterance: how do i put a stop on a payment
+  - utterance: ''
+  - utterance: '197798749'
+  - utterance: 'yes'
+  - utterance: ''
+- description: Test case for faqkasksk.json
+  golden_dialog: faqkasksk.json
+  id: 39f9960a-1b78-4eb1-b091-b266b75dbaa5
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: how do i put a stop on a payment
+  - utterance: ''
+  - utterance: '197798749'
+  - utterance: '[NO INPUT]'
+  - utterance: '[NO INPUT]'
+  - utterance: ''
+- description: Test case for faqly.json
+  golden_dialog: faqly.json
+  id: 2c117cb9-97b3-48ab-8873-1c6940770f25
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: is there a fee for wire transfers
+  - utterance: ''
+  - utterance: '197798749'
+  - utterance: 'yes'
+  - utterance: ''
+- description: Test case for faqlyhj.json
+  golden_dialog: faqlyhj.json
+  id: cdad142a-99fc-4e4b-85b5-406adc921c25
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: transaction inquiry
+  - utterance: ''
+  - utterance: '100569913'
+  - utterance: ''
+- description: Test case for faqmau.json
+  golden_dialog: faqmau.json
+  id: 8e29d087-04fa-461b-949a-c8305843587a
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: pay off an outstanding medical bill
+  - utterance: ''
+  - utterance: '107850230'
+  - utterance: ''
+- description: Test case for faqotototo.json
+  golden_dialog: faqotototo.json
+  id: eab0e545-a64d-435c-8b48-2a3913097b2f
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: how can i check my account activity through the app?
+  - utterance: ''
+  - utterance: banana
+  - utterance: agent please
+  - utterance: ''
+- description: Test case for faqperr.json
+  golden_dialog: faqperr.json
+  id: 1f5520a9-bb51-4a12-8bd9-99c6de8e0006
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: list my transactions
+  - utterance: ''
+  - utterance: '107850230'
+  - utterance: ''
+- description: Test case for faqperra.json
+  golden_dialog: faqperra.json
+  id: 899fb09b-242c-4540-9a7f-36afe52271a4
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: file a dispute for an unauthorized card charge.
+  - utterance: ''
+- description: Test case for faqpoo.json
+  golden_dialog: faqpoo.json
+  id: 2b0004d1-cd32-459d-89f0-02f8a754b417
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: i want to stop a recurring payment?
+  - utterance: ''
+  - utterance: agent please
+  - utterance: banana [NO MATCH]
+  - utterance: agente please [NO MATCH]
+  - utterance: ''
+- description: Test case for faqprr.json
+  golden_dialog: faqprr.json
+  id: 78c4072e-7a64-4856-89ab-d4440269607e
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: list my transactions
+  - utterance: ''
+  - utterance: '107850230'
+  - utterance: ''
+- description: Test case for faqray.json
+  golden_dialog: faqray.json
+  id: d0da4221-3916-4892-97cf-e3ee7defe830
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: dispute a recent zelle transfer i didn't authorize
+  - utterance: i got scammed on venmo, need help disputing
+  - utterance: ''
+  - utterance: '107850230'
+  - utterance: ''
+- description: Test case for faqrj.json
+  golden_dialog: faqrj.json
+  id: 3ba6606d-2199-4904-a796-84f2d4f2b18c
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: i'd like to report an issue i'm having with my account.
+  - utterance: ''
+  - utterance: '107460888'
+  - utterance: ''
+- description: Test case for faqsadas.json
+  golden_dialog: faqsadas.json
+  id: 1832091d-71ea-4203-b303-83b5bbc52f1c
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+- description: Test case for faqsar.json
+  golden_dialog: faqsar.json
+  id: ccc9bac7-c7f4-4e7d-84bf-270b0accf395
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: send money to my friend's account
+  - utterance: ''
+  - utterance: '107850230'
+  - utterance: ''
+- description: Test case for faqsarr.json
+  golden_dialog: faqsarr.json
+  id: 54210d85-a3da-4997-8656-ad44c837d41a
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: can i get a fee refunded
+  - utterance: ''
+  - utterance: '[HANG UP]'
+- description: Test case for faqtititi.json
+  golden_dialog: faqtititi.json
+  id: 9adfaecd-6ba3-4693-806b-5b190a8f4ad0
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: how can i check my account activity through the app?
+  - utterance: ''
+  - utterance: '[NO INPUT]'
+  - utterance: '[NO INPUT]'
+  - utterance: '[NO INPUT]'
+  - utterance: ''
+- description: Test case for faqtktr.json
+  golden_dialog: faqtktr.json
+  id: dcd8362d-6380-4e4d-9d98-dcd51d6ee428
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: what are the fees for atm withdrawls
+  - utterance: ''
+  - utterance: '[HANG UP]'
+- description: Test case for faqueraira.json
+  golden_dialog: faqueraira.json
+  id: 24959288-0d8e-4ad7-9852-3bffc9e3036c
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: i want to stop a recurring payment?
+  - utterance: ''
+  - utterance: banana [NO MATCH]
+  - utterance: agent
+  - utterance: banana [NO MATCH]
+  - utterance: banana [NO MATCH]
+  - utterance: ''
+- description: Test case for faqueueu.json
+  golden_dialog: faqueueu.json
+  id: c6d7d741-c7e0-4759-9142-26611d5cb77e
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: i want to stop a recurring payment?
+  - utterance: ''
+  - utterance: '[noinput[ [NO MATCH]'
+  - utterance: '[NO INPUT]'
+  - utterance: banana [NO MATCH]
+  - utterance: ''
+- description: Test case for faqueur.json
+  golden_dialog: faqueur.json
+  id: 72f520a9-2bea-4465-9fb0-ab54415da839
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: how can i check my account activity through the app?
+  - utterance: ''
+  - utterance: agent please
+  - utterance: ''
+- description: Test case for faqut.json
+  golden_dialog: faqut.json
+  id: 1e7a5003-31d7-41a5-a45e-8de4241c365c
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: how can i check my account activity through the app?
+  - utterance: ''
+  - utterance: '[HANG UP]'
+- description: Test case for faqyoy.json
+  golden_dialog: faqyoy.json
+  id: a21e209c-f697-420f-90bd-9daf6c905b1a
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: guide me through changing my secondary card pin.
+  - utterance: ''
+- description: Test case for faqyt.json
+  golden_dialog: faqyt.json
+  id: 8859aec0-cabc-4731-977d-2cf5a7b30e0a
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: i want to check if a merchant is approved by the bank.
+  - utterance: ''
+- description: Test case for fawyt.json
+  golden_dialog: fawyt.json
+  id: bacc5fae-72b5-4905-8c63-6895cfd482bc
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: i need to set up a meeting with a banking consultant.
+  - utterance: ''
+  - utterance: '108151783'
+  - utterance: ''
