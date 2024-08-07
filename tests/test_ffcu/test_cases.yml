@@ -777,3 +777,96 @@
   - utterance: ''
   - utterance: '108151783'
   - utterance: ''
+- description: Test case for wellcome.json
+  golden_dialog: wellcome.json
+  id: c00d19a8-0a6f-47b6-bb36-0c2b681d790a
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: '[HANG UP]'
+- description: Test case for wellcomeaa.json
+  golden_dialog: wellcomeaa.json
+  id: 41e5e347-f65a-4f4a-a204-5c2c256c3fbd
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: agent please
+  - utterance: agent please
+  - utterance: ''
+  - utterance: ''
+- description: Test case for wellcomeasaas.json
+  golden_dialog: wellcomeasaas.json
+  id: a0742754-fe5f-4f90-96e9-a22a178f82b6
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: banana
+  - utterance: banana
+  - utterance: banana
+  - utterance: ''
+  - utterance: ''
+- description: Test case for wellcomeasas.json
+  golden_dialog: wellcomeasas.json
+  id: 463d23a0-5c58-44b3-bbfb-6423214acb8d
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: '[NO INPUT]'
+  - utterance: '[NO INPUT]'
+  - utterance: '[NO INPUT]'
+  - utterance: ''
+  - utterance: ''
+- description: Test case for wellcomeasdasq.json
+  golden_dialog: wellcomeasdasq.json
+  id: 6e872442-b981-464c-8fbe-b86dfc01d022
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: banana
+  - utterance: '[NO INPUT]'
+  - utterance: '[NO INPUT]'
+  - utterance: ''
+  - utterance: ''
+- description: Test case for wellcomeasdqweq.json
+  golden_dialog: wellcomeasdqweq.json
+  id: f2955ef3-8d42-406f-b5dc-96fd31625a8c
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: banana
+  - utterance: banana
+  - utterance: '[NO INPUT]'
+  - utterance: ''
+  - utterance: ''
+- description: Test case for wellcomeyeays.json
+  golden_dialog: wellcomeyeays.json
+  id: f3347829-73aa-4573-8962-1d88c6c02443
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: banana
+  - utterance: agent please
+  - utterance: agent please
+  - utterance: ''
+  - utterance: ''
+- description: Test case for wellcomqwew.json
+  golden_dialog: wellcomqwew.json
+  id: 090a078b-1ddd-48d9-bd46-bbe4a96a5cee
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: banana
+  - utterance: banana
+  - utterance: agent please
+  - utterance: agente please [NO MATCH]
+  - utterance: agent please
+  - utterance: ''
+  - utterance: ''
