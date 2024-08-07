@@ -1006,3 +1006,309 @@
   - utterance: no thank you
   - utterance: 'no'
   - utterance: ''
+- description: Test case for ssasa.json
+  golden_dialog: ssasa.json
+  id: 9a967d7f-c044-4218-9018-1108d30257d9
+  session_channel: omIVR
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: when is my loan two
+  - utterance: what is my loan due date
+  - utterance: when is my next loan payment
+  - utterance: ''
+  - utterance: one zero nine nine one eight one seven zero
+  - utterance: 'yes'
+  - utterance: ''
+  - utterance: 'yes'
+  - utterance: ''
+  - utterance: ''
+  - utterance: ''
+  - utterance: 'no'
+  - utterance: 'no'
+  - utterance: 'no'
+  - utterance: ''
+- description: Test case for ssasas.json
+  golden_dialog: ssasas.json
+  id: 711a27f8-291e-4f04-9883-c299b40cdf1e
+  session_channel: omIVR
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: account balance
+  - utterance: ''
+  - utterance: one zero zero seven eight nine zero eight four
+  - utterance: five one five zero
+  - utterance: ''
+  - utterance: 'no'
+  - utterance: zero one
+  - utterance: ''
+  - utterance: 'no'
+  - utterance: 'no'
+  - utterance: ''
+- description: Test case for ssee.json
+  golden_dialog: ssee.json
+  id: c486e27b-4b66-45a7-b4a7-da4fb7b94828
+  session_channel: omIVR
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: previous transactions
+  - utterance: ''
+  - utterance: one zero zero seven eight nine zero eight four
+  - utterance: three three eight zero
+  - utterance: ''
+  - utterance: loan
+  - utterance: ''
+- description: Test case for ssewew.json
+  golden_dialog: ssewew.json
+  id: 6d2c1942-30b9-48cb-9cf9-8d6c1277c4b9
+  session_channel: omIVR
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: transaction history
+  - utterance: ''
+  - utterance: one zero zero seven eight nine zero eight four
+  - utterance: three three eight zero
+  - utterance: ''
+  - utterance: loans
+  - utterance: ''
+- description: Test case for ssqwas.json
+  golden_dialog: ssqwas.json
+  id: ed3ade93-bd90-4742-9264-5f48d7edb10d
+  session_channel: omIVR
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: '[NO INPUT]'
+  - utterance: need a mortgage release
+  - utterance: ''
+  - utterance: one zero zero seven eight nine zero eight four
+  - utterance: five one five zero
+  - utterance: ''
+  - utterance: ''
+- description: Test case for ssqwqw.json
+  golden_dialog: ssqwqw.json
+  id: 0df56001-e155-4de7-a72e-13bcb89f0173
+  session_channel: omIVR
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: when is my loan two
+  - utterance: what is my loan due date
+  - utterance: when is my next loan payment
+  - utterance: ''
+  - utterance: one zero nine nine one eight one seven zero
+  - utterance: 'yes'
+  - utterance: ''
+  - utterance: 'yes'
+  - utterance: ''
+  - utterance: ''
+  - utterance: ''
+  - utterance: 'no'
+  - utterance: 'no'
+  - utterance: 'no'
+  - utterance: ''
+- description: Test case for ssqwwqw.json
+  golden_dialog: ssqwwqw.json
+  id: e067402d-a84d-4ad4-bb5f-befafa99cc3e
+  session_channel: omIVR
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: transaction history
+  - utterance: ''
+  - utterance: one zero zero seven eight nine zero eight four
+  - utterance: three three eight zero
+  - utterance: ''
+  - utterance: '[NO INPUT]'
+  - utterance: loans
+  - utterance: ''
+  - utterance: ''
+  - utterance: '[HANG UP]'
+- description: Test case for ssree.json
+  golden_dialog: ssree.json
+  id: 8577bfee-abb1-40d9-85af-486592a5b24b
+  session_channel: omIVR
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: account balance
+  - utterance: ''
+  - utterance: one zero zero seven eight nine zero eight four
+  - utterance: '[NO INPUT]'
+  - utterance: '[NO INPUT]'
+  - utterance: ''
+  - utterance: ''
+- description: Test case for ssrerae.json
+  golden_dialog: ssrerae.json
+  id: ac6f2772-c627-452d-b7c5-90e9022d0aa1
+  session_channel: omIVR
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: when is my loan closing date
+  - utterance: ''
+  - utterance: it is one zero nine nine one eight one seven zero one
+  - utterance: ''
+  - utterance: one zero nine nine one eight one seven zero
+  - utterance: 'yes'
+  - utterance: ''
+  - utterance: 'no'
+  - utterance: '[NO INPUT]'
+  - utterance: '[HANG UP]'
+- description: Test case for ssrere.json
+  golden_dialog: ssrere.json
+  id: 8d306b85-c19c-4ebb-9593-f250752720d8
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: transaction history
+  - utterance: ''
+  - utterance: one zero zero seven eight nine zero eight four
+  - utterance: '3380'
+  - utterance: ''
+- description: Test case for sssksks.json
+  golden_dialog: sssksks.json
+  id: fb0b5cc8-f4e4-4955-bed1-c8e7fc200d50
+  session_channel: omIVR
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: my transaction history
+  - utterance: ''
+  - utterance: one zero zero seven eight nine zero eight four
+  - utterance: three three eight zero
+  - utterance: ''
+  - utterance: loan
+  - utterance: ''
+  - utterance: ''
+  - utterance: '[HANG UP]'
+- description: Test case for sstras.json
+  golden_dialog: sstras.json
+  id: 20017ce0-81d2-4149-b8fd-3b6cbfba242f
+  session_channel: omIVR
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: account balance
+  - utterance: ''
+  - utterance: '[NO INPUT]'
+  - utterance: one zero zero seven eight nine zero eight four
+  - utterance: three three eight zero
+  - utterance: ''
+  - utterance: 'yes'
+  - utterance: ''
+- description: Test case for sstre.json
+  golden_dialog: sstre.json
+  id: 7d22a18c-97fa-48df-9211-01225e915789
+  session_channel: omIVR
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: account balance
+  - utterance: ''
+  - utterance: one zero zero seven eight nine zero eight four
+  - utterance: two zero zero zero
+  - utterance: ''
+  - utterance: '[NO INPUT]'
+  - utterance: 'no'
+  - utterance: '[NO INPUT]'
+  - utterance: '[HANG UP]'
+- description: Test case for sstrrtr.json
+  golden_dialog: sstrrtr.json
+  id: d382f6e0-7f09-4080-8158-9ebb06de1efc
+  session_channel: omIVR
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: account balance
+  - utterance: ''
+  - utterance: one zero zero seven eight nine zero eight four
+  - utterance: three three eight zero
+  - utterance: ''
+  - utterance: 'yes'
+  - utterance: ''
+  - utterance: ''
+  - utterance: 'no'
+  - utterance: '[NO INPUT]'
+  - utterance: i would like to hear my loans transactions please
+  - utterance: 'no'
+  - utterance: transaction history
+  - utterance: loans
+  - utterance: ''
+  - utterance: ''
+  - utterance: '[HANG UP]'
+- description: Test case for sstrtr.json
+  golden_dialog: sstrtr.json
+  id: 760f489c-d450-497b-8818-d4baf6863332
+  session_channel: omIVR
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: i would like my transaction history
+  - utterance: ''
+  - utterance: '[NO INPUT]'
+  - utterance: one zero zero seven eight nine zero eight four
+  - utterance: three three eight zero
+  - utterance: ''
+  - utterance: loan
+  - utterance: ''
+  - utterance: ''
+  - utterance: no thanks
+  - utterance: no thanks
+  - utterance: ''
+- description: Test case for ssweqw.json
+  golden_dialog: ssweqw.json
+  id: 7a6c6d38-92f2-4eee-a470-f8997f893939
+  session_channel: omIVR
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: balance
+  - utterance: ''
+  - utterance: zero two one six seven nine three two three
+  - utterance: 'yes'
+  - utterance: ''
+- description: Test case for sswew.json
+  golden_dialog: sswew.json
+  id: 3da7a52b-3148-4b00-8176-2edee67afe66
+  session_channel: omIVR
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: i want to increase my loan payment
+  - utterance: ''
+  - utterance: one zero zero seven eight nine zero eight four
+  - utterance: five one five zero
+  - utterance: ''
+  - utterance: ''
+- description: Test case for sswqw.json
+  golden_dialog: sswqw.json
+  id: 9d45c47b-0fa9-41d9-925d-581fb788c706
+  session_channel: omIVR
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: account balance
+  - utterance: ''
+  - utterance: one zero zero seven eight nine zero eight four
+  - utterance: '[NO INPUT]'
+  - utterance: '[NO INPUT]'
+  - utterance: ''
+  - utterance: ''
+- description: Test case for sswqwe.json
+  golden_dialog: sswqwe.json
+  id: cf74be5b-4d1c-47a0-a092-e30f906f903f
+  session_channel: omIVR
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: i need a line of credit
+  - utterance: ''
+  - utterance: one zero zero seven eight nine zero eight four
+  - utterance: five one five zero
+  - utterance: ''
+  - utterance: ''
