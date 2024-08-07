@@ -870,3 +870,139 @@
   - utterance: agent please
   - utterance: ''
   - utterance: ''
+- description: Test case for edgeasa.json
+  golden_dialog: edgeasa.json
+  id: 68f24a44-c4ef-4f29-97e7-5a02bd95235e
+  session_channel: omIVR
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: i'd like to add a joint member to my account
+  - utterance: ''
+  - utterance: one zero three six zero five two four zero
+  - utterance: 'yes'
+  - utterance: ''
+  - utterance: ''
+- description: Test case for edgeasaa.json
+  golden_dialog: edgeasaa.json
+  id: 2359bd9b-f40d-4c12-a47d-bbb2c11259e4
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: 219844205 [NO MATCH]
+  - utterance: balance
+  - utterance: ''
+  - utterance: '219844205'
+  - utterance: ''
+  - utterance: ''
+- description: Test case for edgeqqw.json
+  golden_dialog: edgeqqw.json
+  id: 87f4a03d-fcec-467e-814d-9402bd535a5d
+  session_channel: omIVR
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: i would like to apply for a loan
+  - utterance: 'yes'
+  - utterance: ''
+  - utterance: one one one one one one one one one
+  - utterance: ''
+- description: Test case for edgererwr.json
+  golden_dialog: edgererwr.json
+  id: c5d0df74-9aeb-48d4-b42e-3e2dc12ad564
+  session_channel: chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: i would like to apply for a loan
+  - utterance: 'yes'
+  - utterance: ''
+  - utterance: i don't have it
+  - utterance: 'no'
+  - utterance: ''
+  - utterance: ''
+- description: Test case for edgeterer.json
+  golden_dialog: edgeterer.json
+  id: b9f16fb2-3f3e-4233-898d-6aaf34e6686c
+  session_channel: chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: i would like to apply for a loan
+  - utterance: 'yes'
+  - utterance: ''
+  - utterance: i don't have it
+  - utterance: 'no'
+  - utterance: ''
+  - utterance: ''
+- description: Test case for edgetrt.json
+  golden_dialog: edgetrt.json
+  id: c6dcc34a-4047-43d8-a562-9d5e32d41e39
+  session_channel: omIVR
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: yeah can you tell me about your online banking services
+  - utterance: what are your hours of operation
+  - utterance: '[NO INPUT]'
+  - utterance: '[HANG UP]'
+- description: Test case for edgeweae.json
+  golden_dialog: edgeweae.json
+  id: 34ad87ad-af8b-419c-a6ec-d3e6101d81bf
+  session_channel: omIVR
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: what is your routing number
+  - utterance: ''
+  - utterance: no further questions thank you for your help
+  - utterance: ''
+- description: Test case for edgewew.json
+  golden_dialog: edgewew.json
+  id: f77ad1a8-2f9b-4785-9bad-b6a719222f12
+  session_channel: omIVR
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: how do i cancel my payment is past due
+  - utterance: i can't make my loan payment
+  - utterance: ''
+- description: Test case for edgytr.json
+  golden_dialog: edgytr.json
+  id: 26d808c9-f0af-4092-b4ce-7302146a15f7
+  session_channel: omIVR
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: what's your routing number
+  - utterance: ''
+  - utterance: yeah can i make an appointment
+  - utterance: ''
+  - utterance: zero six six nine five six two six five
+  - utterance: 'yes'
+  - utterance: ''
+- description: Test case for ssaasas.json
+  golden_dialog: ssaasas.json
+  id: b9314eb4-5a58-43ae-9f67-c4754bd6762c
+  session_channel: omIVR
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: i would like my account balances please
+  - utterance: ''
+  - utterance: one zero zero seven eight nine zero eight four
+  - utterance: three three eight zero
+  - utterance: ''
+  - utterance: 'yes'
+  - utterance: ''
+  - utterance: ''
+  - utterance: yes please
+  - utterance: ''
+  - utterance: 'yes'
+  - utterance: 'no'
+  - utterance: zero one
+  - utterance: ''
+  - utterance: no thank you
+  - utterance: 'no'
+  - utterance: ''
